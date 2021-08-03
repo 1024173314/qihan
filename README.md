@@ -1,10 +1,13 @@
 # Getting Started with Create React App
 
-这个项目是用[Create React App] (https://github.com/facebook/create-react-app)引导的。
+这个项目是用[Create React App] ( https://github.com/facebook/create-react-app )引导的。
 
 这个项目是使用web3js实现火币链和以太坊的基础操作
 如余款查询、代币转账、代币查询等
-主要演示在应s
+演示代码在app.js
+
+安装好react脚手架后使用npm install web3安装web3js
+替换app.js即可查看演示
 
 
 ## Available Scripts
